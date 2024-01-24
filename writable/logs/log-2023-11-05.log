@@ -1,0 +1,28 @@
+CRITICAL - 2023-11-05 20:24:00 --> Invalid file: .php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('', Array, true)
+#2 C:\jasa1\app\Views\index.php(529): view('')
+#3 C:\jasa1\system\View\View.php(210): include('C:\\jasa1\\app\\Vi...')
+#4 C:\jasa1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#6 C:\jasa1\app\Controllers\Home.php(41): view('index', Array)
+#7 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->jelvino()
+#8 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#12 {main}
+CRITICAL - 2023-11-05 20:34:20 --> Invalid file: jonatnan.php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('jonatnan.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('jonatnan', Array, true)
+#2 C:\jasa1\app\Views\index.php(529): view('jonatnan')
+#3 C:\jasa1\system\View\View.php(210): include('C:\\jasa1\\app\\Vi...')
+#4 C:\jasa1\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#6 C:\jasa1\app\Controllers\Home.php(46): view('index', Array)
+#7 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->jonathan()
+#8 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#12 {main}

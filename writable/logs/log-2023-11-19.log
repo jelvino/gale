@@ -1,0 +1,32 @@
+CRITICAL - 2023-11-19 19:58:05 --> syntax error, unexpected token "public"
+#0 C:\jasa1\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 C:\jasa1\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 C:\jasa1\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-19 19:58:33 --> syntax error, unexpected token "public", expecting end of file
+#0 C:\jasa1\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 C:\jasa1\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 C:\jasa1\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-19 20:01:27 --> syntax error, unexpected token "public", expecting end of file
+#0 C:\jasa1\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 C:\jasa1\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 C:\jasa1\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-19 20:02:36 --> syntax error, unexpected token "public"
+#0 C:\jasa1\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 C:\jasa1\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 C:\jasa1\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}

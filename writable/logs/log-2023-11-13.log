@@ -1,0 +1,233 @@
+CRITICAL - 2023-11-13 19:51:27 --> Invalid file: .php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('', Array, true)
+#2 C:\jasa1\app\Controllers\Home.php(26): view('')
+#3 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#8 {main}
+CRITICAL - 2023-11-13 19:51:53 --> Invalid file: .php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('', Array, true)
+#2 C:\jasa1\app\Controllers\Home.php(26): view('')
+#3 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#8 {main}
+CRITICAL - 2023-11-13 19:51:54 --> Invalid file: .php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('', Array, true)
+#2 C:\jasa1\app\Controllers\Home.php(26): view('')
+#3 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#8 {main}
+CRITICAL - 2023-11-13 19:51:54 --> Invalid file: .php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('', Array, true)
+#2 C:\jasa1\app\Controllers\Home.php(26): view('')
+#3 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#8 {main}
+CRITICAL - 2023-11-13 19:51:55 --> Invalid file: .php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('', Array, true)
+#2 C:\jasa1\app\Controllers\Home.php(26): view('')
+#3 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#8 {main}
+CRITICAL - 2023-11-13 19:51:55 --> Invalid file: .php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('', Array, true)
+#2 C:\jasa1\app\Controllers\Home.php(26): view('')
+#3 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#8 {main}
+CRITICAL - 2023-11-13 19:51:55 --> Invalid file: .php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('', Array, true)
+#2 C:\jasa1\app\Controllers\Home.php(26): view('')
+#3 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#8 {main}
+CRITICAL - 2023-11-13 19:51:56 --> Invalid file: .php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('', Array, true)
+#2 C:\jasa1\app\Controllers\Home.php(26): view('')
+#3 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#8 {main}
+CRITICAL - 2023-11-13 19:51:56 --> Invalid file: .php
+#0 C:\jasa1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+#1 C:\jasa1\system\Common.php(1089): CodeIgniter\View\View->render('', Array, true)
+#2 C:\jasa1\app\Controllers\Home.php(26): view('')
+#3 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#8 {main}
+CRITICAL - 2023-11-13 20:01:31 --> syntax error, unexpected token "=", expecting ")"
+#0 C:\jasa1\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/aksi_login')
+#1 C:\jasa1\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/aksi_login')
+#2 C:\jasa1\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-13 20:01:43 --> Undefined property: App\Controllers\Home::$reuest
+#0 C:\jasa1\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\jasa1\\app\\Co...', 27)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-13 20:01:44 --> Undefined property: App\Controllers\Home::$reuest
+#0 C:\jasa1\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\jasa1\\app\\Co...', 27)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-13 20:02:10 --> Undefined property: App\Controllers\Home::$reuest
+#0 C:\jasa1\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\jasa1\\app\\Co...', 27)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-13 20:02:10 --> Undefined property: App\Controllers\Home::$reuest
+#0 C:\jasa1\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\jasa1\\app\\Co...', 27)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-13 20:02:10 --> Undefined property: App\Controllers\Home::$reuest
+#0 C:\jasa1\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\jasa1\\app\\Co...', 27)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-13 20:02:11 --> Undefined property: App\Controllers\Home::$reuest
+#0 C:\jasa1\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\jasa1\\app\\Co...', 27)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-13 20:02:11 --> Undefined property: App\Controllers\Home::$reuest
+#0 C:\jasa1\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\jasa1\\app\\Co...', 27)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-13 20:02:11 --> Undefined property: App\Controllers\Home::$reuest
+#0 C:\jasa1\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\jasa1\\app\\Co...', 27)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+CRITICAL - 2023-11-13 20:02:11 --> Undefined property: App\Controllers\Home::$reuest
+#0 C:\jasa1\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\jasa1\\app\\Co...', 27)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+ERROR - 2023-11-13 20:23:51 --> Table 'jasa_machining.velix' doesn't exist
+CRITICAL - 2023-11-13 20:23:51 --> Call to a member function getRow() on bool
+#0 C:\jasa1\app\Controllers\Home.php(34): App\models\opo->getWhere('velix', Array)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+ERROR - 2023-11-13 20:26:07 --> Table 'jasa_machining.velix' doesn't exist
+CRITICAL - 2023-11-13 20:26:07 --> Call to a member function getRow() on bool
+#0 C:\jasa1\app\Controllers\Home.php(34): App\models\opo->getWhere('velix', Array)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+ERROR - 2023-11-13 20:26:13 --> Table 'jasa_machining.velix' doesn't exist
+CRITICAL - 2023-11-13 20:26:13 --> Call to a member function getRow() on bool
+#0 C:\jasa1\app\Controllers\Home.php(34): App\models\opo->getWhere('velix', Array)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+ERROR - 2023-11-13 20:26:46 --> Table 'jasa_machining.velix' doesn't exist
+CRITICAL - 2023-11-13 20:26:46 --> Call to a member function getRow() on bool
+#0 C:\jasa1\app\Controllers\Home.php(34): App\Models\opo->getWhere('velix', Array)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+ERROR - 2023-11-13 20:28:10 --> Table 'jasa_machining.velix' doesn't exist
+CRITICAL - 2023-11-13 20:28:10 --> Call to a member function getRow() on bool
+#0 C:\jasa1\app\Controllers\Home.php(34): App\Models\opo->getWhere('velix', Array)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+ERROR - 2023-11-13 20:28:49 --> Table 'jasa_machining.velix' doesn't exist
+CRITICAL - 2023-11-13 20:28:49 --> Call to a member function getRow() on bool
+#0 C:\jasa1\app\Controllers\Home.php(34): App\Models\opo->getWhere('velix', Array)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
+ERROR - 2023-11-13 20:30:18 --> Table 'jasa_machining.velix' doesn't exist
+CRITICAL - 2023-11-13 20:30:18 --> Call to a member function getRow() on bool
+#0 C:\jasa1\app\Controllers\Home.php(34): App\Models\Opo->getWhere('velix', Array)
+#1 C:\jasa1\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\jasa1\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\jasa1\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\jasa1\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\jasa1\system\Commands\Server\rewrite.php(43): require_once('C:\\jasa1\\public...')
+#6 {main}
